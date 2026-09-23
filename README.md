@@ -1,3 +1,5 @@
+<img width="2056" height="765" alt="ChatGPT Image Sep 23, 2026, 01_27_22 PM" src="https://github.com/user-attachments/assets/14fa8467-082b-4324-8b65-eb45b33ad0ba" />
+
 <h1 align="center">Hi 👋, I'm Christina Penheiro</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 

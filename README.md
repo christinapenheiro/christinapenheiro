@@ -3,6 +3,19 @@
 <h1 align="center">Hi 👋, I'm Christina Penheiro</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+
+## 👋 About Me
+
+A passionate **Web Developer in progress** who enjoys turning ideas into clean, functional, and user-friendly applications.
+
+💻 **Currently focused on:** React, Next.js, TypeScript & modern web development  
+🌱 **Learning:** Full-stack development, backend concepts & scalable application architecture  
+📊 **Interested in:** Data Science, Biostatistics & using data to solve real-world problems  
+🛠️ **Enjoy:** Building projects, debugging, learning new technologies, and improving my problem-solving skills  
+🎯 **Goal:** To become a skilled professional developer and build meaningful, production-ready applications.
+
+> *Learn. Build. Break. Debug. Improve. Repeat. 🚀*
+
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **alizacyndi@gmail.com**

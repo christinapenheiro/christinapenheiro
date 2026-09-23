@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinapenheiro&" alt="christinapenheiro" /></p>
 
-![GitHub Snake Animation](https://github.com)
+![](github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 

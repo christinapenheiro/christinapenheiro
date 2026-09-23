@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-## 👋 About Me
+## About Me
 
 A passionate **Web Developer in progress** who enjoys turning ideas into clean, functional, and user-friendly applications.
 
